@@ -14,5 +14,3 @@ except ZeroDivisionError:
 
 finally:
     print("Division operation completed: ", result)
-
-
