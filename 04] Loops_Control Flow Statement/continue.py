@@ -1,3 +1,6 @@
+# The continue statement skips the remaining lines of code
+
+
 # for i in range(17):
 #     if(i==12):
 #         # print("skip the iteration")
