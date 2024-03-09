@@ -5,7 +5,6 @@
 #     if(i%101 == 0):
 #         break
 
-
 # i = 1
 # while(i <= 9):
         
@@ -14,7 +13,6 @@
 #         break
 #     i+=1
   
-
 for i in range(1, 15):
     if i==10:
         break
