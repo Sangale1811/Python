@@ -27,7 +27,7 @@
 #   print("b<a")
 
 
-list = ['a', 'b', 'c', 'd', 'e']
+list = ['a', 'b', 'c', 'd', 'e', 'f']
 
 for i in list:
     if (i == 'b'):
