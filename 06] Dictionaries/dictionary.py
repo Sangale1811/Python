@@ -1,7 +1,12 @@
 # Dictionaries are ordered collection of data items.
 # This are key-value pairs that are separated by commas and enclosed within curly brackets.
 
-my_info={'Name':'Shivani', 'Exam_No':'10', 'Branch':'Computer', 'Marks':[90, 87, 97, 98]}            # creating a dictionary
+my_info={                       # creating a dictionary
+    'Name':'Shivani', 
+    'Exam_No':'10', 
+    'Branch':'Computer',
+     'Marks':[90, 87, 97, 98]
+}            
 print(my_info)
 
 print(my_info['Branch'])
